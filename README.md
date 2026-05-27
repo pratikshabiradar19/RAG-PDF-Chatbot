@@ -85,13 +85,13 @@ RAG-PDF-Chatbot/
 ## 📸 Screenshots
 
 ### 1. Upload Your PDF
-![Upload](images/upload.png)
+![Upload](upload.png)
 
 ### 2. PDF Processed Successfully
-![Processed](images/processed.png)
+![Processed](processed.png)
 
 ### 3. Ask Questions & Get Source-Cited Answers
-![Answer](images/answer.png)
+![Answer](answer.png)
 
 ---
 
