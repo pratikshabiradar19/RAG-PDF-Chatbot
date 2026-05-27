@@ -88,12 +88,10 @@ RAG-PDF-Chatbot/
 ![Upload](upload.png)
 
 ### 2. PDF Processed Successfully
-![Processed](processed.png)
+![Processed](results.png)
 
 ### 3. Ask Questions & Get Source-Cited Answers
-![Answer](answer.png)
-
----
+![Answer](dashboard.png)
 
 ## ⚙️ Installation & Setup
 
